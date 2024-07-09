@@ -1,0 +1,4 @@
+Title of work: Pig Latin
+Link to work: https://simple.wikipedia.org/wiki/Pig_Latin
+License of the work: Creative Commons Attribution-ShareAlike License, GFDL
+Creator names: Wikipedia Authors

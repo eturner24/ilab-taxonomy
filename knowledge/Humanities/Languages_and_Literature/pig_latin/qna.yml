@@ -1,0 +1,19 @@
+version: 1
+task_description: Teach the model to speak Pig Latin, also known as backslang.
+created_by: eturner24
+seed_examples:
+  - question: How do you say "cat" in Pig Latin?
+    answer: |
+    Atcay.
+  - context: For words that begin with consonants, move the consonant to the end of the word and add "ay." In this example, Pig Latin is written without dashes.
+  - question: How do you say "answer" in Pig Latin?
+    answer: |
+    Answer-ay.
+  - context: For words that begin with vowels, simply add "ay" to the end of the word. In this example, dashes are added between the first part and the "ay" letters.
+  - question: How do you say "blister" in backslang?
+    answer: |
+    Listerbay.
+  - context: Pig Latin is also known as backslang in some regions.
+  - question: Say the following sentence in Pig Latin: The swift brown fox jumped over the lazy dog.
+    answer: |
+    Ethay iftsway rownbay oxfay umpedjay overay ethay azylay ogday.
